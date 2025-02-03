@@ -70,7 +70,7 @@ jobs:
     - name: Commit and push
         # git add logs/*
       run: |
-        git config --global user.email "thiagogquinto.dev@gmail.com"
+        git config --global user.email "thiagogarianiq@gmail.com"
         git config --global user.name "Thiago Quinto"
         git pull 
         git add json/bics/*.json
