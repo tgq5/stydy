@@ -1,0 +1,48 @@
+import requests
+import json
+import sys
+import os
+from pydriller import Git, Repository
+
+def get_commit_data(commit_hash):
+    for commit in Repository(path_to_repo="repos_dir/elasticsearch", single=commit_hash).traverse_commits():
+        commit_author = commit.author.name
+        commiter = commit.committer.name 
+        commit_date = commit.author_date.isoformat()
+        committer_data = commit.committer_date.isoformat()
+        changed_files = commit.files
+        deletions = commit.deletions
+        insertions = commit.insertions
+        lines = commit.lines
+        dmm_unit_size = commit.dmm_unit_size
+        dmm_unit_complexity = commit.dmm_unit_complexity
+        dmm_unit_interfacing = commit.dmm_unit_interfacing
+
+        return commit_author, commiter, commit_date, committer_data, changed_files, deletions, insertions, lines, dmm_unit_size, dmm_unit_complexity, dmm_unit_interfacing
+
+def process_file(file_path):
+    print(f"Processing {file_path}")
+    with open(file_path) as f:
+        data = json.load(f)
+        
+        for record in data:
+            commit_hash = record["fix_commit_hash"]
+            commit_author, commiter, commit_date, committer_data, changed_files, deletions, insertions, lines, dmm_unit_size, dmm_unit_complexity, dmm_unit_interfacing = get_commit_data(commit_hash)
+            record["commit_author"] = commit_author
+            record["commiter"] = commiter
+            record["commit_date"] = commit_date
+            record["committer_data"] = committer_data
+            record["changed_files"] = changed_files
+            record["deletions"] = deletions
+            record["insertions"] = insertions
+            record["lines"] = lines
+            record["dmm_unit_size"] = dmm_unit_size
+            record["dmm_unit_complexity"] = dmm_unit_complexity
+            record["dmm_unit_interfacing"] = dmm_unit_interfacing
+
+    with open(file_path, "w") as f:
+        json.dump(data, f, indent=4)
+           
+
+for file in os.listdir("./json/elastic/v30"):
+    process_file(f"./json/elastic/v30/{file}")
