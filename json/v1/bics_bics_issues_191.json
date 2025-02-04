@@ -1,0 +1,110 @@
+[
+    {
+        "repo_name": "airflow",
+        "repo_url": "apache/airflow",
+        "issue_html_url": "https://github.com/apache/airflow/issues/40850",
+        "earliest_issue_date": "2024-07-18T06:33:31Z",
+        "fix_commit_hash": "463e28b9ce6b58a64795c96ae7b94aba37770c93",
+        "tipo": "PR",
+        "matched": [
+            "325444e3813bc2439566f6f29c07ff3cfc038368"
+        ]
+    },
+    {
+        "repo_name": "airflow",
+        "repo_url": "apache/airflow",
+        "issue_html_url": "https://github.com/apache/airflow/issues/40828",
+        "earliest_issue_date": "2024-07-16T22:58:02Z",
+        "fix_commit_hash": "afde88ac336b34c89654b7f4e2f23fae64863134",
+        "tipo": "PR",
+        "matched": [
+            "38d6c28f9cf9ee4f663d068032830911f7a8e3a3"
+        ]
+    },
+    {
+        "repo_name": "airflow",
+        "repo_url": "apache/airflow",
+        "issue_html_url": "https://github.com/apache/airflow/issues/40811",
+        "earliest_issue_date": "2024-07-16T10:59:11Z",
+        "fix_commit_hash": "e7a2a9d8653d56c6f2321ed8e5889c78872a318f",
+        "tipo": "PR",
+        "matched": [
+            "0b995602e6e5894ee31625a4dd0e6aa255d2a651"
+        ]
+    },
+    {
+        "repo_name": "airflow",
+        "repo_url": "apache/airflow",
+        "issue_html_url": "https://github.com/apache/airflow/issues/40810",
+        "earliest_issue_date": "2024-07-16T09:46:42Z",
+        "fix_commit_hash": "84d19bc0d05ba2521673734dcb3f80f2a98ec394",
+        "tipo": "Commit",
+        "matched": [
+            "4c3732850f5f1c640eefad7f1bc7dbc80c6b76f9"
+        ]
+    },
+    {
+        "repo_name": "airflow",
+        "repo_url": "apache/airflow",
+        "issue_html_url": "https://github.com/apache/airflow/issues/40798",
+        "earliest_issue_date": "2024-07-15T15:36:06Z",
+        "fix_commit_hash": "9ec9eb79a0cc845d86e7380c73269d2ee1d3c210",
+        "tipo": "PR",
+        "matched": [
+            "c202c07f67173718c736d95de22185b65b25b580"
+        ]
+    },
+    {
+        "repo_name": "airflow",
+        "repo_url": "apache/airflow",
+        "issue_html_url": "https://github.com/apache/airflow/issues/40788",
+        "earliest_issue_date": "2024-07-15T10:15:19Z",
+        "fix_commit_hash": "cfe1d53ed041ea903292e3789e1a5238db5b5031",
+        "tipo": "Commit",
+        "matched": [
+            "4fb2140f393b6332903fb833151c2ce8a9c66fe2"
+        ]
+    },
+    {
+        "repo_name": "airflow",
+        "repo_url": "apache/airflow",
+        "issue_html_url": "https://github.com/apache/airflow/issues/40749",
+        "earliest_issue_date": "2024-07-12T12:42:11Z",
+        "fix_commit_hash": "1f1053216323db326746745d3e4d50cc46681436",
+        "tipo": "PR",
+        "matched": [
+            "ed9080ae6a17d7b2478652b676579f162462bb70"
+        ]
+    },
+    {
+        "repo_name": "airflow",
+        "repo_url": "apache/airflow",
+        "issue_html_url": "https://github.com/apache/airflow/issues/40737",
+        "earliest_issue_date": "2024-07-11T18:21:23Z",
+        "fix_commit_hash": "a70ee7209cd8d4dabb8bc1b1057d79ff25a99bae",
+        "tipo": "PR",
+        "matched": [
+            "b1196460db1a21b2c6c3ef2e841fc6d0c22afe97"
+        ]
+    },
+    {
+        "repo_name": "airflow",
+        "repo_url": "apache/airflow",
+        "issue_html_url": "https://github.com/apache/airflow/issues/40684",
+        "earliest_issue_date": "2024-07-10T09:44:48Z",
+        "fix_commit_hash": "224cb75be10f71e34b4a81a9f4b7ed43f2f25db6",
+        "tipo": "PR",
+        "matched": [
+            "dad3c590346b2d9e2cc86723b4c5ff3b5a43c000"
+        ]
+    },
+    {
+        "repo_name": "airflow",
+        "repo_url": "apache/airflow",
+        "issue_html_url": "https://github.com/apache/airflow/issues/40676",
+        "earliest_issue_date": "2024-07-09T18:21:07Z",
+        "fix_commit_hash": "40dcc9b97a66764d65c2f48942abc906500ffe62",
+        "tipo": "PR",
+        "matched": []
+    }
+]
