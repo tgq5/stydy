@@ -1,0 +1,52 @@
+[
+    {
+        "fix_commit_hash": "d9ea57b6200ce5b48294c2f5776a9b24237c52ba",
+        "repo_name": "airflow",
+        "best_scenario_issue_date": "2020-03-22T12:06:58+01:00"
+    },
+    {
+        "fix_commit_hash": "3f0979c9f1c7b5145c877870b7ca0e63af57bdd5",
+        "repo_name": "airflow",
+        "best_scenario_issue_date": "2024-07-05T16:14:45+02:00"
+    },
+    {
+        "fix_commit_hash": "dc760b45eaeccc3ff35a5acdfe70968ca0451331",
+        "repo_name": "airflow",
+        "best_scenario_issue_date": "2022-11-06T21:08:14-05:00"
+    },
+    {
+        "fix_commit_hash": "fa94ee9ebbc091cf8e0ec76e498d095b6221bcde",
+        "repo_name": "airflow",
+        "best_scenario_issue_date": "2023-11-27T02:34:14+09:00"
+    },
+    {
+        "fix_commit_hash": "1d25105189db09df53327240a01f39e09e10b15a",
+        "repo_name": "airflow",
+        "best_scenario_issue_date": "2022-10-31T18:04:37+01:00"
+    },
+    {
+        "fix_commit_hash": "d529ec8d4572b4b9e97344974b2aa960c8a90ae6",
+        "repo_name": "airflow",
+        "best_scenario_issue_date": "2024-05-15T10:25:00+02:00"
+    },
+    {
+        "fix_commit_hash": "d3ac01052bad07f6ec341ab714faabed913169ce",
+        "repo_name": "airflow",
+        "best_scenario_issue_date": "2021-10-23T01:33:00+02:00"
+    },
+    {
+        "fix_commit_hash": "8d816fb8c455e81b8a186da37c6009316839bfcd",
+        "repo_name": "airflow",
+        "best_scenario_issue_date": "2024-09-19T23:46:43-07:00"
+    },
+    {
+        "fix_commit_hash": "6630357fd1b798945dc538552dd03e5031870fec",
+        "repo_name": "airflow",
+        "best_scenario_issue_date": "2022-08-06T10:11:14+03:00"
+    },
+    {
+        "fix_commit_hash": "01390839dd57bc8a104a8d41c923beb5455fe489",
+        "repo_name": "airflow",
+        "best_scenario_issue_date": "2024-08-14T18:42:15+05:30"
+    }
+]
