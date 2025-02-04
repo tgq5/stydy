@@ -1,3 +1,3 @@
 from utils.utils import split_json_file
 
-split_json_file("./json/raw_data/apache.json", "./json/raw_data/issues")
+split_json_file("./json/raw_data/issues_49.json", "./json/raw_data/issues_49")
