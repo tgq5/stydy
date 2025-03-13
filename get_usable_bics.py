@@ -1,8 +1,8 @@
 import json
 import os
 
+data_file = []
 for file in os.listdir('./json/bics/'):
-    data_file = []
     with open(f'./json/bics/{file}', 'r') as f:
         data = json.load(f)
         for record in data:
@@ -15,6 +15,9 @@ for file in os.listdir('./json/bics/'):
                 }
                 data_file.append(spec_data)
 
-    with open(f'./json/raw_data/{file}', 'w') as f:
-        json.dump(data_file, f, indent=4)
+    # with open(f'./json/raw_data/{file}', 'w') as f:
+    #     json.dump(data_file, f, indent=4)
+
+with open(f'./json/raw_data/final.json', 'w') as f:
+    json.dump(data_file, f, indent=4)
 
