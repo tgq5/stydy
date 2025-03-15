@@ -63,6 +63,7 @@ API_TOKENS = [
     os.getenv('API_TOKEN_7'),
     os.getenv('API_TOKEN_8'),
     os.getenv('API_TOKEN_9'),
+    os.getenv('API_TOKEN_10')
 ]
 
 token_index = 0
@@ -330,7 +331,7 @@ def get_issues(repos):
         today.strftime('%Y-%m-%d')
         
         delta = datetime.timedelta(days=365)
-        # start_date = "2023-06-11"
+        # start_date = "2020-07-25"
         start_date =  datetime.datetime.strptime(start_date, '%Y-%m-%d').date()
         current_start_date = start_date
 
