@@ -1,0 +1,150 @@
+2025-03-16 17:27:39,892 - error_log - ERROR - PR 146 merge commit does not exist in PyDriller- Issue 2389
+2025-03-16 17:27:46,490 - error_log - ERROR - PR 32 merge commit does not exist in PyDriller- Issue 2315
+2025-03-16 17:28:06,142 - error_log - ERROR - PR 169 merge commit does not exist in PyDriller- Issue 2062
+2025-03-16 17:28:34,901 - error_log - ERROR - PR 73 merge commit does not exist in PyDriller- Issue 1632
+2025-03-16 17:28:35,518 - error_log - ERROR - PR 72 merge commit does not exist in PyDriller- Issue 1629
+2025-03-16 17:28:41,337 - error_log - ERROR - PR 364 merge commit does not exist in PyDriller- Issue 1566
+2025-03-16 17:29:08,755 - error_log - ERROR - PR 93 merge commit does not exist in PyDriller- Issue 1252
+2025-03-16 17:29:15,610 - error_log - ERROR - PR 43 merge commit does not exist in PyDriller- Issue 1149
+2025-03-16 17:29:16,589 - error_log - ERROR - PR 123 merge commit does not exist in PyDriller- Issue 1140
+2025-03-16 17:29:29,962 - error_log - ERROR - PR 31 merge commit does not exist in PyDriller- Issue 1000
+2025-03-16 17:29:36,479 - error_log - ERROR - PR 26 merge commit does not exist in PyDriller- Issue 923
+2025-03-16 17:29:45,235 - error_log - ERROR - PR 210 merge commit does not exist in PyDriller- Issue 805
+2025-03-16 17:30:24,191 - error_log - ERROR - PR 71 merge commit does not exist in PyDriller- Issue 293
+2025-03-16 17:31:00,462 - error_log - ERROR - PR 1305 merge commit does not exist in PyDriller- Issue 6839
+2025-03-16 17:31:15,059 - error_log - ERROR - PR 3348 merge commit does not exist in PyDriller- Issue 6680
+2025-03-16 17:31:19,548 - error_log - ERROR - PR 1242 merge commit does not exist in PyDriller- Issue 6599
+2025-03-16 17:31:21,811 - error_log - ERROR - PR 4159 merge commit does not exist in PyDriller- Issue 6547
+2025-03-16 17:31:23,394 - error_log - ERROR - PR 4418 merge commit does not exist in PyDriller- Issue 6511
+2025-03-16 17:31:25,753 - error_log - ERROR - Commit 6cbc638b00f7589913884559dd4a35974bc161df does not exist in PyDriller - Issue 6486
+2025-03-16 17:31:40,776 - error_log - ERROR - PR 4103 merge commit does not exist in PyDriller- Issue 6248
+2025-03-16 17:32:09,818 - error_log - ERROR - PR 170 merge commit does not exist in PyDriller- Issue 5726
+2025-03-16 17:32:26,482 - error_log - ERROR - PR 1073 merge commit does not exist in PyDriller- Issue 5454
+2025-03-16 17:33:29,855 - error_log - ERROR - PR 4529 merge commit does not exist in PyDriller- Issue 4384
+2025-03-16 17:33:33,754 - error_log - ERROR - PR 96 merge commit does not exist in PyDriller- Issue 4315
+2025-03-16 17:33:44,562 - error_log - ERROR - Commit fcfa0626982b5c795a4d3df9a0ae5e63ba41a11f does not exist in PyDriller - Issue 4188
+2025-03-16 17:33:50,939 - error_log - ERROR - PR 87 merge commit does not exist in PyDriller- Issue 4113
+2025-03-16 17:33:55,036 - error_log - ERROR - PR 3356 merge commit does not exist in PyDriller- Issue 4046
+2025-03-16 17:33:57,924 - error_log - ERROR - PR 3317 merge commit does not exist in PyDriller- Issue 3976
+2025-03-16 17:34:01,780 - error_log - ERROR - PR 221 merge commit does not exist in PyDriller- Issue 3942
+2025-03-16 17:34:06,925 - error_log - ERROR - PR 3356 merge commit does not exist in PyDriller- Issue 3878
+2025-03-16 17:34:11,135 - error_log - ERROR - PR 3356 merge commit does not exist in PyDriller- Issue 3822
+2025-03-16 17:34:23,698 - error_log - ERROR - PR 213 merge commit does not exist in PyDriller- Issue 3637
+2025-03-16 17:34:25,422 - error_log - ERROR - PR 213 merge commit does not exist in PyDriller- Issue 3618
+2025-03-16 17:34:40,435 - error_log - ERROR - PR 156 merge commit does not exist in PyDriller- Issue 3413
+2025-03-16 17:34:43,308 - error_log - ERROR - PR 154 merge commit does not exist in PyDriller- Issue 3393
+2025-03-16 17:35:00,103 - error_log - ERROR - PR 5535 merge commit does not exist in PyDriller- Issue 10491
+2025-03-16 17:35:23,711 - error_log - ERROR - PR 627 merge commit does not exist in PyDriller- Issue 10200
+2025-03-16 17:35:26,736 - error_log - ERROR - Commit 341cbc9473eb734a12a46b86f770bec4a27cf3b0 does not exist in PyDriller - Issue 10171
+2025-03-16 17:35:27,715 - error_log - ERROR - PR 435 merge commit does not exist in PyDriller- Issue 10165
+2025-03-16 17:35:52,447 - error_log - ERROR - PR 416 merge commit does not exist in PyDriller- Issue 9774
+2025-03-16 17:36:02,118 - error_log - ERROR - PR 1871 merge commit does not exist in PyDriller- Issue 9642
+2025-03-16 17:36:06,215 - error_log - ERROR - PR 71 merge commit does not exist in PyDriller- Issue 9579
+2025-03-16 17:36:41,498 - error_log - ERROR - PR 5052 merge commit does not exist in PyDriller- Issue 9214
+2025-03-16 17:36:45,449 - error_log - ERROR - PR 318 merge commit does not exist in PyDriller- Issue 9168
+2025-03-16 17:37:06,788 - error_log - ERROR - PR 4944 merge commit does not exist in PyDriller- Issue 8869
+2025-03-16 17:37:11,199 - error_log - ERROR - PR 5337 merge commit does not exist in PyDriller- Issue 8823
+2025-03-16 17:37:25,116 - error_log - ERROR - PR 4926 merge commit does not exist in PyDriller- Issue 8637
+2025-03-16 17:37:37,565 - error_log - ERROR - Commit b8298973f6a3c5cf66954a68680ca484ca091f80 does not exist in PyDriller - Issue 8478
+2025-03-16 17:37:38,109 - error_log - ERROR - PR 4801 merge commit does not exist in PyDriller- Issue 8475
+2025-03-16 17:37:39,893 - error_log - ERROR - PR 260 merge commit does not exist in PyDriller- Issue 8454
+2025-03-16 17:37:45,926 - error_log - ERROR - Commit 796f5d0fe03aa59e10febc044acb98a820f3827b does not exist in PyDriller - Issue 8385
+2025-03-16 17:38:02,092 - error_log - ERROR - PR 242 merge commit does not exist in PyDriller- Issue 8181
+2025-03-16 17:38:09,836 - error_log - ERROR - PR 319 merge commit does not exist in PyDriller- Issue 8088
+2025-03-16 17:38:15,410 - error_log - ERROR - Commit of issue 8020 without associated PR
+2025-03-16 17:38:16,321 - error_log - ERROR - PR 6345 merge commit does not exist in PyDriller- Issue 7995
+2025-03-16 17:38:30,048 - error_log - ERROR - Commit of issue 7749 without associated PR
+2025-03-16 17:38:30,320 - error_log - ERROR - PR 4963 merge commit does not exist in PyDriller- Issue 7748
+2025-03-16 17:38:55,026 - error_log - ERROR - PR 341 merge commit does not exist in PyDriller- Issue 7332
+2025-03-16 17:38:56,407 - error_log - ERROR - PR 4544 merge commit does not exist in PyDriller- Issue 7318
+2025-03-16 17:38:57,426 - error_log - ERROR - PR 4551 merge commit does not exist in PyDriller- Issue 7299
+2025-03-16 17:38:59,450 - error_log - ERROR - PR 4551 merge commit does not exist in PyDriller- Issue 7275
+2025-03-16 17:39:11,238 - error_log - ERROR - PR 6168 merge commit does not exist in PyDriller- Issue 13401
+2025-03-16 17:39:23,442 - error_log - ERROR - PR 6131 merge commit does not exist in PyDriller- Issue 13206
+2025-03-16 17:39:53,935 - error_log - ERROR - PR 6104 merge commit does not exist in PyDriller- Issue 12789
+2025-03-16 17:40:14,255 - error_log - ERROR - PR 6029 merge commit does not exist in PyDriller- Issue 12520
+2025-03-16 17:40:16,153 - error_log - ERROR - PR 6039 merge commit does not exist in PyDriller- Issue 12500
+2025-03-16 17:40:33,476 - error_log - ERROR - PR 394 merge commit does not exist in PyDriller- Issue 12249
+2025-03-16 17:40:45,724 - error_log - ERROR - Commit c54b142c7223baf8b3496d0d3ed2086936abdade does not exist in PyDriller - Issue 12088
+2025-03-16 17:40:57,049 - error_log - ERROR - PR 5835 merge commit does not exist in PyDriller- Issue 11943
+2025-03-16 17:40:59,959 - error_log - ERROR - PR 58 merge commit does not exist in PyDriller- Issue 11937
+2025-03-16 17:41:26,566 - error_log - ERROR - PR 5751 merge commit does not exist in PyDriller- Issue 11616
+2025-03-16 17:41:28,338 - error_log - ERROR - PR 2151 merge commit does not exist in PyDriller- Issue 11607
+2025-03-16 17:41:30,951 - error_log - ERROR - PR 5746 merge commit does not exist in PyDriller- Issue 11569
+2025-03-16 17:41:47,982 - error_log - ERROR - PR 2084 merge commit does not exist in PyDriller- Issue 11361
+2025-03-16 17:41:50,808 - error_log - ERROR - PR 369 merge commit does not exist in PyDriller- Issue 11342
+2025-03-16 17:41:55,181 - error_log - ERROR - PR 120 merge commit does not exist in PyDriller- Issue 11291
+2025-03-16 17:42:00,053 - error_log - ERROR - PR 464 merge commit does not exist in PyDriller- Issue 11244
+2025-03-16 17:42:05,686 - error_log - ERROR - PR 5748 merge commit does not exist in PyDriller- Issue 11192
+2025-03-16 17:42:06,320 - error_log - ERROR - PR 459 merge commit does not exist in PyDriller- Issue 11187
+2025-03-16 17:42:10,466 - error_log - ERROR - PR 5678 merge commit does not exist in PyDriller- Issue 11163
+2025-03-16 17:42:45,059 - error_log - ERROR - PR 5574 merge commit does not exist in PyDriller- Issue 10630
+2025-03-16 17:42:51,047 - error_log - ERROR - PR 490 merge commit does not exist in PyDriller- Issue 15875
+2025-03-16 17:42:51,537 - error_log - ERROR - PR 6708 merge commit does not exist in PyDriller- Issue 15874
+2025-03-16 17:42:57,273 - error_log - ERROR - PR 572 merge commit does not exist in PyDriller- Issue 15802
+2025-03-16 17:42:59,166 - error_log - ERROR - PR 6683 merge commit does not exist in PyDriller- Issue 15791
+2025-03-16 17:43:00,206 - error_log - ERROR - PR 6693 merge commit does not exist in PyDriller- Issue 15764
+2025-03-16 17:43:02,947 - error_log - ERROR - PR 605 merge commit does not exist in PyDriller- Issue 15743
+2025-03-16 17:43:07,144 - error_log - ERROR - PR 3910 merge commit does not exist in PyDriller- Issue 15664
+2025-03-16 17:43:13,044 - error_log - ERROR - PR 565 merge commit does not exist in PyDriller- Issue 15598
+2025-03-16 17:43:15,300 - error_log - ERROR - PR 25 merge commit does not exist in PyDriller- Issue 15582
+2025-03-16 17:43:23,231 - error_log - ERROR - PR 6826 merge commit does not exist in PyDriller- Issue 15477
+2025-03-16 17:43:29,969 - error_log - ERROR - PR 64 merge commit does not exist in PyDriller- Issue 15413
+2025-03-16 17:43:30,499 - error_log - ERROR - PR 123 merge commit does not exist in PyDriller- Issue 15412
+2025-03-16 17:43:34,233 - error_log - ERROR - PR 6620 merge commit does not exist in PyDriller- Issue 15364
+2025-03-16 17:43:34,780 - error_log - ERROR - PR 6937 merge commit does not exist in PyDriller- Issue 15363
+2025-03-16 17:43:38,126 - error_log - ERROR - PR 6747 merge commit does not exist in PyDriller- Issue 15306
+2025-03-16 17:43:43,435 - error_log - ERROR - PR 4194 merge commit does not exist in PyDriller- Issue 15253
+2025-03-16 17:43:58,554 - error_log - ERROR - PR 530 merge commit does not exist in PyDriller- Issue 15105
+2025-03-16 17:44:00,765 - error_log - ERROR - PR 6522 merge commit does not exist in PyDriller- Issue 15074
+2025-03-16 17:44:34,063 - error_log - ERROR - PR 3400 merge commit does not exist in PyDriller- Issue 14551
+2025-03-16 17:44:40,224 - error_log - ERROR - PR 3352 merge commit does not exist in PyDriller- Issue 14495
+2025-03-16 17:44:41,106 - error_log - ERROR - PR 18 merge commit does not exist in PyDriller- Issue 14491
+2025-03-16 17:44:41,713 - error_log - ERROR - PR 6619 merge commit does not exist in PyDriller- Issue 14489
+2025-03-16 17:44:43,282 - error_log - ERROR - PR 22 merge commit does not exist in PyDriller- Issue 14472
+2025-03-16 17:44:44,550 - error_log - ERROR - PR 275 merge commit does not exist in PyDriller- Issue 14461
+2025-03-16 17:44:47,476 - error_log - ERROR - PR 3311 merge commit does not exist in PyDriller- Issue 14414
+2025-03-16 17:45:01,250 - error_log - ERROR - PR 16 merge commit does not exist in PyDriller- Issue 14226
+2025-03-16 17:45:02,088 - error_log - ERROR - PR 6301 merge commit does not exist in PyDriller- Issue 14219
+2025-03-16 17:45:05,590 - error_log - ERROR - PR 6319 merge commit does not exist in PyDriller- Issue 14192
+2025-03-16 17:45:09,561 - error_log - ERROR - PR 3173 merge commit does not exist in PyDriller- Issue 14136
+2025-03-16 17:45:14,922 - error_log - ERROR - Commit 79026faf9493cae3a085c91001006278ae1f6160 does not exist in PyDriller - Issue 14091
+2025-03-16 17:45:17,169 - error_log - ERROR - PR 390 merge commit does not exist in PyDriller- Issue 14079
+2025-03-16 17:45:24,703 - error_log - ERROR - PR 382 merge commit does not exist in PyDriller- Issue 13998
+2025-03-16 17:45:29,532 - error_log - ERROR - PR 864 merge commit does not exist in PyDriller- Issue 13949
+2025-03-16 17:45:44,328 - error_log - ERROR - PR 860 merge commit does not exist in PyDriller- Issue 13745
+2025-03-16 17:46:00,631 - error_log - ERROR - PR 6187 merge commit does not exist in PyDriller- Issue 13524
+2025-03-16 17:46:03,656 - error_log - ERROR - PR 695 merge commit does not exist in PyDriller- Issue 18143
+2025-03-16 17:46:04,886 - error_log - ERROR - PR 692 merge commit does not exist in PyDriller- Issue 18127
+2025-03-16 17:46:05,530 - error_log - ERROR - PR 51 merge commit does not exist in PyDriller- Issue 18125
+2025-03-16 17:46:10,470 - error_log - ERROR - PR 4781 merge commit does not exist in PyDriller- Issue 18054
+2025-03-16 17:46:11,264 - error_log - ERROR - PR 4757 merge commit does not exist in PyDriller- Issue 18052
+2025-03-16 17:46:11,700 - error_log - ERROR - PR 4781 merge commit does not exist in PyDriller- Issue 18051
+2025-03-16 17:46:12,240 - error_log - ERROR - PR 4737 merge commit does not exist in PyDriller- Issue 18049
+2025-03-16 17:46:15,000 - error_log - ERROR - PR 7094 merge commit does not exist in PyDriller- Issue 17978
+2025-03-16 17:46:20,510 - error_log - ERROR - PR 7079 merge commit does not exist in PyDriller- Issue 17882
+2025-03-16 17:46:21,977 - error_log - ERROR - PR 4776 merge commit does not exist in PyDriller- Issue 17870
+2025-03-16 17:46:25,593 - error_log - ERROR - PR 8 merge commit does not exist in PyDriller- Issue 17795
+2025-03-16 17:46:30,538 - error_log - ERROR - PR 628 merge commit does not exist in PyDriller- Issue 17757
+2025-03-16 17:46:34,501 - error_log - ERROR - Commit of issue 17718 without associated PR
+2025-03-16 17:46:34,759 - error_log - ERROR - Commit of issue 17717 without associated PR
+2025-03-16 17:46:35,082 - error_log - ERROR - Commit of issue 17716 without associated PR
+2025-03-16 17:46:35,308 - error_log - ERROR - Commit of issue 17715 without associated PR
+2025-03-16 17:46:35,757 - error_log - ERROR - PR 4847 merge commit does not exist in PyDriller- Issue 17712
+2025-03-16 17:46:36,212 - error_log - ERROR - Commit of issue 17711 without associated PR
+2025-03-16 17:46:37,201 - error_log - ERROR - PR 7048 merge commit does not exist in PyDriller- Issue 17694
+2025-03-16 17:46:42,372 - error_log - ERROR - PR 4817 merge commit does not exist in PyDriller- Issue 17632
+2025-03-16 17:46:46,131 - error_log - ERROR - PR 670 merge commit does not exist in PyDriller- Issue 17579
+2025-03-16 17:46:48,309 - error_log - ERROR - Commit 4035732e1113268462b508299e2911ca69fc2af7 does not exist in PyDriller - Issue 17534
+2025-03-16 17:46:49,935 - error_log - ERROR - PR 7573 merge commit does not exist in PyDriller- Issue 17515
+2025-03-16 17:46:54,906 - error_log - ERROR - PR 7015 merge commit does not exist in PyDriller- Issue 17465
+2025-03-16 17:46:55,314 - error_log - ERROR - PR 7012 merge commit does not exist in PyDriller- Issue 17463
+2025-03-16 17:46:55,811 - error_log - ERROR - PR 7047 merge commit does not exist in PyDriller- Issue 17462
+2025-03-16 17:46:57,632 - error_log - ERROR - PR 7056 merge commit does not exist in PyDriller- Issue 17442
+2025-03-16 17:47:10,474 - error_log - ERROR - PR 705 merge commit does not exist in PyDriller- Issue 17265
+2025-03-16 17:47:11,580 - error_log - ERROR - PR 7155 merge commit does not exist in PyDriller- Issue 17249
+2025-03-16 17:47:13,452 - error_log - ERROR - PR 7014 merge commit does not exist in PyDriller- Issue 17240
+2025-03-16 17:47:17,162 - error_log - ERROR - PR 7084 merge commit does not exist in PyDriller- Issue 17196
+2025-03-16 17:47:20,291 - error_log - ERROR - PR 6954 merge commit does not exist in PyDriller- Issue 17155
+2025-03-16 17:47:26,322 - error_log - ERROR - Commit 4f3f360c020265ac2d748339ae1fb948064e3d46 does not exist in PyDriller - Issue 17091
+2025-03-16 17:47:28,355 - error_log - ERROR - PR 7046 merge commit does not exist in PyDriller- Issue 17066
