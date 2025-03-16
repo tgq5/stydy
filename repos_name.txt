@@ -1,1 +1,1 @@
-junit-team/junit5/
+junit-team/junit5
