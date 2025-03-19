@@ -2,18 +2,175 @@
     {
         "repo_name": "junit5",
         "repo_url": "junit-team/junit5",
-        "issue_html_url": "https://github.com/junit-team/junit5/issues/1387",
-        "earliest_issue_date": "2018-04-24T11:20:38Z",
-        "fix_commit_hash": "fb0eda7adecacfd1a00f951887074034613237e3",
-        "tipo": "Commit"
+        "issue_html_url": "https://github.com/junit-team/junit5/issues/508",
+        "earliest_issue_date": "2016-09-12T10:38:23Z",
+        "fix_commit_hash": "4752af0ce450d3b35b2e12b61bec5e8e3e3cea85",
+        "tipo": "Commit",
+        "commit_author": "Marc Philipp",
+        "commiter": "Marc Philipp",
+        "commit_date": "2017-06-15T20:00:35+02:00",
+        "committer_data": "2017-06-18T14:54:21+02:00",
+        "changed_files": 6,
+        "deletions": 15,
+        "insertions": 26,
+        "lines": 41,
+        "dmm_unit_size": 1.0,
+        "dmm_unit_complexity": 1.0,
+        "dmm_unit_interfacing": 1.0,
+        "files_exts": [
+            "adoc",
+            "java",
+            "java",
+            "java",
+            "java",
+            "java"
+        ]
     },
     {
         "repo_name": "junit5",
         "repo_url": "junit-team/junit5",
-        "issue_html_url": "https://github.com/junit-team/junit5/issues/1384",
-        "earliest_issue_date": "2018-04-23T12:01:10Z",
-        "fix_commit_hash": "bb14e9592a0eefdd5f9de63e500ac136809a3083",
-        "tipo": "Commit"
+        "issue_html_url": "https://github.com/junit-team/junit5/issues/500",
+        "earliest_issue_date": "2016-09-09T06:02:48Z",
+        "fix_commit_hash": "fe37532fb3d5fb650e92ea5b6d1663bfc65988b4",
+        "tipo": "Commit",
+        "commit_author": "Marc Philipp",
+        "commiter": "Marc Philipp",
+        "commit_date": "2016-09-25T08:55:01+02:00",
+        "committer_data": "2016-09-25T08:55:07+02:00",
+        "changed_files": 1,
+        "deletions": 53,
+        "insertions": 29,
+        "lines": 82,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "adoc"
+        ]
+    },
+    {
+        "repo_name": "junit5",
+        "repo_url": "junit-team/junit5",
+        "issue_html_url": "https://github.com/junit-team/junit5/issues/495",
+        "earliest_issue_date": "2016-09-06T17:50:26Z",
+        "fix_commit_hash": "8d7c502febe256aeedf1529855ea12b89fbf4b2e",
+        "tipo": "Commit",
+        "commit_author": "Sam Brannen",
+        "commiter": "Sam Brannen",
+        "commit_date": "2016-09-07T13:51:01+02:00",
+        "committer_data": "2016-09-07T13:51:01+02:00",
+        "changed_files": 2,
+        "deletions": 5,
+        "insertions": 130,
+        "lines": 135,
+        "dmm_unit_size": 1.0,
+        "dmm_unit_complexity": 1.0,
+        "dmm_unit_interfacing": 1.0,
+        "files_exts": [
+            "java",
+            "java"
+        ]
+    },
+    {
+        "repo_name": "junit5",
+        "repo_url": "junit-team/junit5",
+        "issue_html_url": "https://github.com/junit-team/junit5/issues/493",
+        "earliest_issue_date": "2016-09-04T16:51:39Z",
+        "fix_commit_hash": "058276c9e78aa35826da2804b9dfafc43371fac7",
+        "tipo": "Commit",
+        "commit_author": "Sam Brannen",
+        "commiter": "Sam Brannen",
+        "commit_date": "2016-10-05T16:41:52+02:00",
+        "committer_data": "2016-10-05T16:41:52+02:00",
+        "changed_files": 2,
+        "deletions": 17,
+        "insertions": 31,
+        "lines": 48,
+        "dmm_unit_size": 0.0,
+        "dmm_unit_complexity": 0.0,
+        "dmm_unit_interfacing": 0.0,
+        "files_exts": [
+            "adoc",
+            "java"
+        ]
+    },
+    {
+        "repo_name": "junit5",
+        "repo_url": "junit-team/junit5",
+        "issue_html_url": "https://github.com/junit-team/junit5/issues/490",
+        "earliest_issue_date": "2016-08-31T10:51:45Z",
+        "fix_commit_hash": "5278245e1688d3b6f002312f642c47a7a67b56a4",
+        "tipo": "Commit",
+        "commit_author": "Marc Philipp",
+        "commiter": "Marc Philipp",
+        "commit_date": "2016-10-18T20:38:21+02:00",
+        "committer_data": "2016-10-18T20:38:21+02:00",
+        "changed_files": 3,
+        "deletions": 4,
+        "insertions": 21,
+        "lines": 25,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "java",
+            "java",
+            "java"
+        ]
+    },
+    {
+        "repo_name": "junit5",
+        "repo_url": "junit-team/junit5",
+        "issue_html_url": "https://github.com/junit-team/junit5/issues/487",
+        "earliest_issue_date": "2016-08-30T12:55:19Z",
+        "fix_commit_hash": "85503e4c7d035d21610b574fbfd21f3ee23eb7dc",
+        "tipo": "Commit",
+        "commit_author": "Sam Brannen",
+        "commiter": "Sam Brannen",
+        "commit_date": "2016-08-30T15:01:35+02:00",
+        "committer_data": "2016-08-30T15:04:05+02:00",
+        "changed_files": 11,
+        "deletions": 8,
+        "insertions": 24,
+        "lines": 32,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "adoc",
+            "java",
+            "java",
+            "java",
+            "java",
+            "java",
+            "java",
+            "java",
+            "java",
+            "java",
+            "java"
+        ]
+    },
+    {
+        "repo_name": "junit5",
+        "repo_url": "junit-team/junit5",
+        "issue_html_url": "https://github.com/junit-team/junit5/issues/1387",
+        "earliest_issue_date": "2018-04-24T11:20:38Z",
+        "fix_commit_hash": "fb0eda7adecacfd1a00f951887074034613237e3",
+        "tipo": "Commit",
+        "commit_author": "Christian Stein",
+        "commiter": "Christian Stein",
+        "commit_date": "2018-04-24T20:48:56+02:00",
+        "committer_data": "2018-04-24T20:48:56+02:00",
+        "changed_files": 1,
+        "deletions": 10,
+        "insertions": 10,
+        "lines": 20,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "java"
+        ]
     },
     {
         "repo_name": "junit5",
@@ -21,7 +178,23 @@
         "issue_html_url": "https://github.com/junit-team/junit5/issues/1383",
         "earliest_issue_date": "2018-04-23T11:16:00Z",
         "fix_commit_hash": "f12c4402315b118dc1e10049e23d6e81fa2ec8a4",
-        "tipo": "Commit"
+        "tipo": "Commit",
+        "commit_author": "Sam Brannen",
+        "commiter": "Sam Brannen",
+        "commit_date": "2018-04-23T13:54:36+02:00",
+        "committer_data": "2018-04-23T13:54:36+02:00",
+        "changed_files": 3,
+        "deletions": 3,
+        "insertions": 179,
+        "lines": 182,
+        "dmm_unit_size": 1.0,
+        "dmm_unit_complexity": 1.0,
+        "dmm_unit_interfacing": 1.0,
+        "files_exts": [
+            "java",
+            "java",
+            "java"
+        ]
     },
     {
         "repo_name": "junit5",
@@ -29,15 +202,25 @@
         "issue_html_url": "https://github.com/junit-team/junit5/issues/1382",
         "earliest_issue_date": "2018-04-23T06:56:05Z",
         "fix_commit_hash": "f3742a454ebad4b7988eb9eaf1fa921c3883be93",
-        "tipo": "Commit"
-    },
-    {
-        "repo_name": "junit5",
-        "repo_url": "junit-team/junit5",
-        "issue_html_url": "https://github.com/junit-team/junit5/issues/1378",
-        "earliest_issue_date": "2018-04-17T12:07:13Z",
-        "fix_commit_hash": "e23718960d43c2e5f147875a8f56deaf6c48cfd2",
-        "tipo": "Commit"
+        "tipo": "Commit",
+        "commit_author": "Wilder Pereira",
+        "commiter": "Marc Philipp",
+        "commit_date": "2018-05-01T22:53:15-03:00",
+        "committer_data": "2018-05-05T12:45:29+02:00",
+        "changed_files": 5,
+        "deletions": 0,
+        "insertions": 71,
+        "lines": 71,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "adoc",
+            "gradle",
+            "java",
+            "kt",
+            "kt"
+        ]
     },
     {
         "repo_name": "junit5",
@@ -45,38 +228,20 @@
         "issue_html_url": "https://github.com/junit-team/junit5/issues/1376",
         "earliest_issue_date": "2018-04-17T09:25:40Z",
         "fix_commit_hash": "5b640f991ceedb890e7415cb453c194861cf01d8",
-        "tipo": "Commit"
-    },
-    {
-        "repo_name": "junit5",
-        "repo_url": "junit-team/junit5",
-        "issue_html_url": "https://github.com/junit-team/junit5/issues/1368",
-        "earliest_issue_date": "2018-04-13T12:55:08Z",
-        "fix_commit_hash": "1400ddf0b51074df9c2d743e5bc1be7a595e9ec3",
-        "tipo": "Commit"
-    },
-    {
-        "repo_name": "junit5",
-        "repo_url": "junit-team/junit5",
-        "issue_html_url": "https://github.com/junit-team/junit5/issues/1349",
-        "earliest_issue_date": "2018-03-30T16:25:35Z",
-        "fix_commit_hash": "ef576cafe55e62e69a0cca8940e342c64f6d8ee5",
-        "tipo": "Commit"
-    },
-    {
-        "repo_name": "junit5",
-        "repo_url": "junit-team/junit5",
-        "issue_html_url": "https://github.com/junit-team/junit5/issues/1344",
-        "earliest_issue_date": "2018-03-27T10:58:31Z",
-        "fix_commit_hash": "a0f76aaa3b86d4d8999e56ab939cfcdee09d6f10",
-        "tipo": "Commit"
-    },
-    {
-        "repo_name": "junit5",
-        "repo_url": "junit-team/junit5",
-        "issue_html_url": "https://github.com/junit-team/junit5/issues/1331",
-        "earliest_issue_date": "2018-03-17T10:15:36Z",
-        "fix_commit_hash": "296a6d1a4a71534611ed1422daf2c0f66e792eaa",
-        "tipo": "Commit"
+        "tipo": "Commit",
+        "commit_author": "Christian Stein",
+        "commiter": "Christian Stein",
+        "commit_date": "2018-05-03T12:36:00+02:00",
+        "committer_data": "2018-05-03T12:36:00+02:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 1,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "java"
+        ]
     }
 ]
