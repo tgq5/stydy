@@ -1,42 +1,52 @@
 [
     {
         "fix_commit_hash": "7352356e475bffeee347f197fdfc0fc2a839b3cb",
-        "repo_name": "junit5"
+        "repo_name": "junit5",
+        "best_scenario_issue_date": "2017-10-03T14:35:29+03:00"
     },
     {
         "fix_commit_hash": "7ae529fc87433707458d5df74da5eb2922a6874f",
-        "repo_name": "junit5"
+        "repo_name": "junit5",
+        "best_scenario_issue_date": "2020-05-31T22:32:54+03:00"
     },
     {
         "fix_commit_hash": "e0e131335d2117a2a1630db22260a258e47d8c4d",
-        "repo_name": "junit5"
+        "repo_name": "junit5",
+        "best_scenario_issue_date": "2016-05-28T19:03:34+02:00"
     },
     {
         "fix_commit_hash": "411366252075ead154b135f1414701db9edc7993",
-        "repo_name": "junit5"
+        "repo_name": "junit5",
+        "best_scenario_issue_date": "2016-01-06T13:54:58+01:00"
     },
     {
         "fix_commit_hash": "6b65cb1e6e54bf7a6bcfc5d1276f445f5b25e496",
-        "repo_name": "junit5"
+        "repo_name": "junit5",
+        "best_scenario_issue_date": "2016-03-18T10:37:49+01:00"
     },
     {
         "fix_commit_hash": "ae9b05434fa1d7dfa5b9ff2096189b30ef6e1d6c",
-        "repo_name": "junit5"
+        "repo_name": "junit5",
+        "best_scenario_issue_date": "2019-10-06T17:28:21+05:30"
     },
     {
         "fix_commit_hash": "0027ade00fd483e08714ece1021a7715bb1855da",
-        "repo_name": "junit5"
+        "repo_name": "junit5",
+        "best_scenario_issue_date": "2015-12-22T10:34:09+01:00"
     },
     {
         "fix_commit_hash": "673732cff5b42ae10f190d65e783a11d430516b9",
-        "repo_name": "junit5"
+        "repo_name": "junit5",
+        "best_scenario_issue_date": "2017-02-07T20:01:59+01:00"
     },
     {
         "fix_commit_hash": "21b61f5b1b5337625a505cd28dd2761f09a35536",
-        "repo_name": "junit5"
+        "repo_name": "junit5",
+        "best_scenario_issue_date": "2017-02-23T23:05:06+01:00"
     },
     {
         "fix_commit_hash": "884efc71012d74ccab55c8f98b823e067a6d0e29",
-        "repo_name": "junit5"
+        "repo_name": "junit5",
+        "best_scenario_issue_date": "2015-11-23T10:44:07+01:00"
     }
 ]
