@@ -1,0 +1,17 @@
+[
+    {
+        "fix_commit_hash": "b7897dbf9c70158f3fee76c56b9c1508b416968c",
+        "repo_name": "junit5",
+        "best_scenario_issue_date": "2019-04-16T19:39:22+02:00"
+    },
+    {
+        "fix_commit_hash": "6eaeab2de153f334ea09d3328be6e001e617a085",
+        "repo_name": "junit5",
+        "best_scenario_issue_date": "2017-04-30T14:05:59+02:00"
+    },
+    {
+        "fix_commit_hash": "b701ea2fc13c53db6259e48b36e5c24d463b90ea",
+        "repo_name": "junit5",
+        "best_scenario_issue_date": "2017-01-16T13:44:41+01:00"
+    }
+]
