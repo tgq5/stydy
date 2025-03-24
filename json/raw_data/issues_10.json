@@ -1,0 +1,52 @@
+[
+    {
+        "fix_commit_hash": "77eb6eafe1b2ba45b340cc86e7e7240b307bcb56",
+        "repo_name": "junit5",
+        "best_scenario_issue_date": "2018-03-02T10:33:31+01:00"
+    },
+    {
+        "fix_commit_hash": "be3ece25dba3738b5c146797c15ebf161867757a",
+        "repo_name": "junit5",
+        "best_scenario_issue_date": "2015-12-18T09:07:04+01:00"
+    },
+    {
+        "fix_commit_hash": "daeee426891b7fd8384caf037e698b0522df5827",
+        "repo_name": "junit5",
+        "best_scenario_issue_date": "2018-05-24T08:32:23+02:00"
+    },
+    {
+        "fix_commit_hash": "3cb4009c645d21ab985f1f411125086295484b62",
+        "repo_name": "junit5",
+        "best_scenario_issue_date": "2017-03-13T13:57:19+01:00"
+    },
+    {
+        "fix_commit_hash": "2106124071214d5a66c1ee38bdd71d4ba0d89719",
+        "repo_name": "junit5",
+        "best_scenario_issue_date": "2016-03-02T15:39:09+01:00"
+    },
+    {
+        "fix_commit_hash": "3e84838c16eeef7bde8b37f049da0b0e0423e244",
+        "repo_name": "junit5",
+        "best_scenario_issue_date": "2018-06-01T18:15:59+02:00"
+    },
+    {
+        "fix_commit_hash": "ee3482e59ab45801f95cd9d6468123d4c5aa7bf0",
+        "repo_name": "junit5",
+        "best_scenario_issue_date": "2015-11-15T21:16:04+01:00"
+    },
+    {
+        "fix_commit_hash": "64b948139b96395899f2852d3cab932a852ed5d8",
+        "repo_name": "junit5",
+        "best_scenario_issue_date": "2016-05-24T17:58:43+02:00"
+    },
+    {
+        "fix_commit_hash": "8267f748cec04349f4193592b1d9e5d8d9a1e53b",
+        "repo_name": "junit5",
+        "best_scenario_issue_date": "2016-01-06T00:25:54+01:00"
+    },
+    {
+        "fix_commit_hash": "a1608abfcfb47f3d7ee0a13fa9d3062e1442d2c1",
+        "repo_name": "junit5",
+        "best_scenario_issue_date": "2017-09-01T15:12:40+02:00"
+    }
+]
